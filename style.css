@@ -44,12 +44,15 @@ p{
 }
  h2#chiken{
     background-color: chartreuse;
+     text-align: center;
 }
 h2#beef{
     background-color: coral;
+     text-align: center;
 }
  h2#sushi{
     background-color: cornflowerblue;
+     text-align: center;
 }
 
   @media screen and (max-width: 991px) {
